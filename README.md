@@ -1,5 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <p>Visitor Count</p>
+  <img src="https://komarev.com/ghpvc/?username=wiliamhengki14&label=Profile%20Views&color=0e75b6&style=flat" alt="wiliamhengki14" />
+</div>
+ 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=500&lines=Hi+Guys!+My+Name+is+Wiliam+Hengki;I+am+a+Web+Developer" alt="Typing SVG"/>
+</div>
 
+<h3 align="center">Web Developer 👨‍💻</h3>
+<hr>
 <!--
 **wiliamhengki14/wiliamhengki14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
