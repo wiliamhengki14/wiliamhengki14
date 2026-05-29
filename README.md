@@ -9,6 +9,13 @@
 
 <h3 align="center">Web Developer 👨‍💻</h3>
 <hr>
+<div align='center'>
+  <h3>🐍 My Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/wiliamhengki14/wiliamhengki14/snake-output/snake.svg" alt="Snake animation" />
+</div>
+
+
+###
 <!--
 **wiliamhengki14/wiliamhengki14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
